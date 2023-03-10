@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678354431 source:c:\users\gawum\onedrive\documents\computer programming\new folder\simple atm machine\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
