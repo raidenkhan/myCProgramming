@@ -1,0 +1,3 @@
+PARTS AND FUNCTIONS
+MAINGAME-this will manage all the player operations throught the filemanagment class
+-

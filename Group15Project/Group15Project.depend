@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1687631533 source:x:\vancedshit\c++begin\group15project\main.cpp
+	<iostream>
+	"Player.h"
+	"FileOperations.h"
+	"MainGame.h"
+	<string.h>
+
+1687594651 x:\vancedshit\c++begin\group15project\headers\character.h
+
+1687813301 source:x:\vancedshit\c++begin\group15project\characters.cpp
+	"Character.h"
+	<iostream>
+
+1687809437 x:\vancedshit\c++begin\group15project\character.h
+	<iostream>
+	<vector>
+	"Player.h"
+
+1687855019 source:x:\vancedshit\c++begin\group15project\player.cpp
+	"Character.h"
+	"Player.h"
+	<iomanip>
+
+1687854984 x:\vancedshit\c++begin\group15project\player.h
+	<string.h>
+	<iostream>
+
+1687722298 source:x:\vancedshit\c++begin\group15project\fileoperations.cpp
+	"FileOperations.h"
+	<unistd.h>
+
+1687722238 x:\vancedshit\c++begin\group15project\fileoperations.h
+	<string.h>
+	<iostream>
+	<fstream>
+	"Player.h"
+	<sstream>
+
+1687631586 x:\vancedshit\c++begin\group15project\maingame.h
+	"Player.h"
+	<iostream>
+	"FileOperations.h"
+	<iomanip>
+
+1687855314 source:x:\vancedshit\c++begin\group15project\maingame.cpp
+	"MainGame.h"
+	<unistd.h>
+
